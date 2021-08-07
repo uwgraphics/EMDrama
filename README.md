@@ -108,6 +108,7 @@ TCP. If you want to see the page images, you will need to go elsewhere.
 
 Unfortunately, the VEP project is over.
 However, the PIs still care about it so you can write to us.
+Email is best.
 
 Note: if you find an "error", remember that our goal is to be consistent
 and transparent. If there is an error in the original transcription, we
@@ -116,3 +117,5 @@ converting the transcriptions, we do so consistently.
 
 If you want a "corrected" set of texts, look to the
 [EarlyPrint](https://earlyprint.org/) project.
+
+This repository was posted in August of 2021, by Michael Gleicher.
