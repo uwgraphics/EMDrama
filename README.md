@@ -55,6 +55,11 @@ itself. The source TCP file may contain multiple works, or other material
 A single TCP file may create a number of different "play" files, and may contain
 text not included in any file. See *Filename Conventions* below.
 
+This **version** of the files was dated September 14, 2016. That is, we believe that
+these files were processed (converted by a team member from the TCP XML sources on hand)
+on (or before) that date. We are not actually sure which "version" of the TCP XML files were
+used.
+
 ## The File Naming Convention
 
 The `SimpleText` folder has 1292 files (one for each work). Each is a `.txt` file.
